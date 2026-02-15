@@ -1,4 +1,4 @@
 # Project 2
 
-local project
+This is local project.
 Add name by Harshneet Kaur
